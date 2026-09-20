@@ -6,8 +6,7 @@ To design and test a simple automatic LED control circuit using an **LDR, NPN tr
 
 # 2\. Components Required
 
-* LDR (Light Dependent Resistor)  
-  ![][image1]  
+* LDR (Light Dependent Resistor)    
 * NPN Transistor  
 * Red LED  
 * 1 kΩ Resistors – 2  
@@ -17,7 +16,7 @@ To design and test a simple automatic LED control circuit using an **LDR, NPN tr
 
 # 3\. Working
 
-The **LDR senses the surrounding light intensity**. Its resistance changes according to the amount of light falling on it. This change controls the voltage applied to the **NPN transistor**. The transistor acts as a switch and controls the LED. Thus, the LED automatically changes its state depending on the light condition.![][image2]
+The **LDR senses the surrounding light intensity**. Its resistance changes according to the amount of light falling on it. This change controls the voltage applied to the **NPN transistor**. The transistor acts as a switch and controls the LED. Thus, the LED automatically changes its state depending on the light condition.![image2](SHEMAT.png)
 
 ## 
 
@@ -31,6 +30,7 @@ The **LDR senses the surrounding light intensity**. Its resistance changes accor
 6. Power the circuit using the 9 V battery.  
 7. Expose or cover the LDR and observe the LED response.  
 8. Test the circuit under different light conditions.
+   ![image1](CIRCUITZ.png)
 
 # 5\. Applications
 
@@ -51,7 +51,7 @@ The **LDR senses the surrounding light intensity**. Its resistance changes accor
 * Saves energy by controlling the light automatically  
 * Useful for understanding sensor-based circuits
 
-# 7\. Result ![][image3]
+# 7\. Result ![image3](LDR.jpg)
 
 The **LDR-based automatic LED circuit was successfully constructed and tested**. The LDR detected changes in light intensity, and the NPN transistor controlled the LED accordingly. This project demonstrated the basic principle of **light sensing and automatic electronic switching**.
 
